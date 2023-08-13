@@ -18,7 +18,11 @@ The code loads a CSV file of crime data, performs some data cleaning and explora
 
 
                                                        Python pacakges used
-Numpy, Pandas, Matplotlib, Scikit-Learn, Flask
+1. Numpy
+2. Pandas
+3. Matplotlib
+4. Scikit-Learn
+5. Flask
 
 
 
